@@ -1,4 +1,4 @@
-const audio = new Audio("https://aimeerivers.github.io/push-the-button/audio/button.mp3");
+const audio = new Audio("https://www.druewilding.com/push-the-button/audio/button.mp3");
 const button = document.getElementById("button");
 const label = document.getElementById("label");
 
